@@ -33,6 +33,9 @@
 
 ---
 
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismailchakrane&show_icons=true&hide_border=true" />
+
+
 [instagram]: https://www.instagram.com/ismail_chakrane/
 [linkedin]: https://www.linkedin.com/in/ismail-chakrane-aa668b1a0/
 
