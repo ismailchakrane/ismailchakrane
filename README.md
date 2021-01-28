@@ -2,8 +2,7 @@
 
 ### I'm a Developer and a Computer Science Student :grin:
 
-- 🔭 I’m currently learning node js
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently learning node js 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
