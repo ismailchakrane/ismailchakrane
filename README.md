@@ -1,2 +1,1 @@
-## LGTM !!
-
+## Artificial Intelligence Student
