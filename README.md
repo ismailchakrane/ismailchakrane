@@ -1,1 +1,1 @@
-## Master’s student in Artificial Intelligence at Claude Bernard University Lyon 1
+AI Engineer | A Software Engineer
